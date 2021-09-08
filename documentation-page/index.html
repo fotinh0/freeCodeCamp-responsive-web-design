@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>JS Documentation Page</title>
+    </head>
+    <body>
+        <!--Navigation bar-->
+        <nav id="navbar">
+            <header>JavaScript Basics Documentation</header>
+            <ul>
+                <li><a class="nav-link" href="#Introduction">Introduction</a></li>
+                <li><a class="nav-link" href="#Hello_world">Hello World</a></li>
+                <li><a class="nav-link" href="#JavaScript_used_in_HTML">JavaScript used in HTML</a></li>
+                <li><a class="nav-link" href="#JavaScript_Output">JavaScript Output</a></li>
+                <li><a class="nav-link" href="#Reference">Reference</a></li>
+                <li><a class="nav-link" href="#GitHub">GitHub</a></li>
+            </ul>
+        </nav>
+
+        <!--Main section-->
+        <main id="main-doc">
+            <section class="main-section" id="Introduction">
+                <header>Introduction</header>
+                <article>
+                    <p>JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web and easy to learn. It is a lightweight compiled programming language with first-class functions.</p> 
+                    <p>JavaScript is one of the 3 languages all web developers must learn:</p>
+                    <ul>
+                      <li><strong>HTML</strong> to define the content of web pages.</li>
+                      <li><strong>CSS</strong> to specify the layout of web pages.</li>
+                      <li><strong>JavaScript</strong> to program the behavior of web pages.</li>
+                    </ul>
+                </article>
+            </section>
+           
+            <section class="main-section" id="Hello_world">
+                <header>Hello world</header>
+                <article>
+                    You can start by opening Scratchpad and write your
+                    first "Hello world" JavaScript code:
+                    <code
+                        >function greetMe(yourName) { alert("Hello " + yourName); }
+                        greetMe("World");
+                    </code>
+                    Select your code in the pad and press Ctrl+R to view in your browser.
+                  </article>
+            </section>
+
+            <section class="main-section" id="JavaScript_used_in_HTML">
+                <header>JavaScript used in HTML</header>
+                <article>
+                    <p>JavaScript code is inserted between &ltscript&gt and &lt/script&gt tags in HTML:</p>
+                    <code
+                        >&ltscript&gt 
+                       document.getElementById("demo").innerHTML = "My First JavaScript";
+                        &lt/script&gt 
+                    </code>
+                    <p>Scripts can be placed in the &ltbody&gt and/or in the &lthead&gt section of an HTML page.</p>
+                    <p>For example, in the &lthead&gt:</p>
+                    <code
+                        >&lthead&gt
+                        &ltscript&gt
+                            function myFunction() {document.getElementById("demo").innerHTML = "Paragraph changed."; }
+                        &lt/script&gt
+                        &lt/head&gt
+                    </code>
+                    <p>While in the &ltbody&gt, it would look like this:</p>
+                    <code
+                        >&ltbody&gt
+                        &ltscript&gt
+                            function myFunction() {document.getElementById("demo").innerHTML = "Paragraph changed."; }
+                        &lt/script&gt
+                        &lt/body&gt
+                    </code>
+                    <p>Scripts can also be placed in external files. JS files have the file extensions <strong>.js</strong>.You can include an external JS file in your HTML page by placing the name of the file in the source attribute like this:</p>
+                    <code
+                        >&ltscript src="myScript.js"&gt&lt/script&gt
+                    </code>
+                </article>
+            </section>
+            
+            <section class="main-section" id="JavaScript_Output">
+                <header>JavaScript Output</header>
+                <article>
+                    <p>You can display data in JavaScript in differnt ways:</p>
+                    <ul>
+                        <li><p>Using <strong>innerHTML</strong> into an HTML element.</p></li>
+                        <li><p>Using <strong>document.write()</strong> into the HTML output.</p></li>
+                        <li><p>Using <strong>window.alert()</strong> into an alert box.</p></li>
+                        <li><p>Using <strong>console.log()</strong> into the browser console.</p></li>
+                    </ul>
+                </article>
+            </section>
+
+            <section class="main-section" id="Reference">
+                <header>Reference</header>
+                <article>
+                    <ul>
+                      <li>All the documentation in this page is taken from <a href="https://www.w3schools.com/js/default.asp" target="_blank">w3schools.com</a></li>
+                    </ul>
+                  </article>
+            </section>
+
+            <section class="main-section" id="GitHub">
+                <header>GitHub</header>
+                <article>
+                    <ul>
+                        <li>View project on <a href="https://github.com/fotinh0/js-documentation-page">GitHub</a></li>
+                    </ul>
+                </article>
+            </section>
+        </main>
+    </body>
+</html>

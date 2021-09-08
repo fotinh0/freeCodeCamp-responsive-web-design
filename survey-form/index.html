@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Survey Form</title>
+        <link rel="stylesheet" href="style.css">
+        <meta charset="UTF-8">
+        <meta name="description" content="Survey Form Project for Portfolio">
+        <meta name="keywords" content="Survey, Form">
+        <meta name="viewport" content="width=device-width, intial-scale=1.0">
+    </head>
+    
+    <body>
+        <div class="container">
+            <header class="header">
+                <h1 id="title" class="text-center">Welcome to My Survey</h1>
+                <p id="description" class="description text-center">Please fill out this form to assist me with improving my web development skills</p>
+            </header>
+
+            <form id="survey-form" action="#">
+                <fieldset>
+                    <!--Name-->
+                    <div class="form-group">
+                        <label id="name-label" for="name">Name</label>
+                        <input type="text" id="name" class="form-control" name="name" placeholder="Enter your name" required>
+                    </div> 
+                    
+                    <!--Email-->
+                    <div class="form-group">
+                        <label id="email-label" for="email">Email</label>
+                        <input type="email" id="email" class="form-control" name="email" placeholder="Enter your email" required>
+                    </div>
+
+                    <!--Age-->
+                    <div class="form-group">
+                        <label id="number-label" for="number">Age<span class="clue">(optional)</span></label>
+                        <input type="number" id="number" class="form-control" name="age" min="18" max="120" placeholder="Age">
+                    </div>
+
+                    <!--Role Dropdown-->
+                    <div class="form-group">
+                        <label id="role-label" for="role">What describes your current role?</label>
+                        <select name="role" id="dropdown" class="form-control" required>
+                            <option disabled selected value>Choose a role</option>
+                            <option value="student">Student</option>
+                            <option value="employee">Full Time Employee</option>
+                            <option value="learner">Self Learner</option>
+                            <option value="other">Other</option>
+                        </select>
+                    </div>
+
+                    <!--Favorite Project Dropdown-->
+                    <div class="form-group">
+                        <label id="fav-project" for="mostLike">What is your favorite project from my portfolio?</label>
+                        <select name=mostLike id="most-like" class="form-control" required>
+                            <option disabled selected value>Choose favorite project</option>
+                            <option value="tributepage">Tribute Page</option>
+                            <option value="surveyform">Survey Form</option>
+                            <option value="productpage">Product Landing Page</option>
+                            <option value="documentation">Technical Documentation Page</option>
+                            <option value="Webpage">Personal Portfolio Website</option>
+                        </select>
+                    </div>
+
+                    <!--Improvements Checkbox-->
+                    <div class="form-group">
+                        <fieldset>
+                            <legend>In what project would you like to see improvements?<span class="clue">(Check all that apply)</span></legend>
+                            
+                            <label for="improvements">
+                            <input type="checkbox" class="input-checkbox" name="improvements" value="tribute-page"> Tribute Page</label>
+
+                            <label for="improvements">
+                            <input type="checkbox" class="input-checkbox" name="improvements" value="survey-form">Survey Form</label>
+
+                            <label for="improvements">
+                            <input type="checkbox" class="input-checkbox" name="improvements" value="product-page">Product Landing Page</label>
+
+                            <label for="improvements">
+                            <input type="checkbox" class="input-checkbox" name="improvements" value="documentation-page">Technical Documentation Page</label>
+
+                            <label for="improvements">
+                            <input type="checkbox" class="input-checkbox" name="improvements" value="personal-portfolio-websire">Personal Portfolio Website</label>
+                        </fieldset>            
+                    </div>
+
+                    <!--Recommendation Radio-->
+                    <div class="form-group">
+                        <fieldset>
+                            <legend>Would you recommend me to a potential employer?</legend>
+                            
+                            <label for="recommend">
+                            <input type="radio" class="input-radio" name="recommend" value="yes">Yes</label>
+                            
+                            <label for="recommend">
+                            <input type="radio" class="input-radio" name="recommend" value="maybe">Maybe</label>
+                            
+                            <label for="recommend">
+                            <input type="radio" class="input-radio" name="recommend" value="no">No</label>
+                        </fieldset>
+                    </div>
+
+                    <!--Additional Comments-->
+                    <div class="form-group">
+                        <label for="comment">Any comments or suggestions?</label>
+                        <textarea name="comment" id="comment" class="input-textarea" placeholder="Enter your comment here..."></textarea>
+                    </div>
+                    
+                    <div class="form-group">
+                        <button type="submit" id="submit" class="submit-button">Submit</button>
+                    </div>
+                </fieldset>
+            </form>
+            <footer>
+                <address>
+                    Written by: <a href="https://github.com/fotinh0">Foti Ceci</a>
+                </address>
+                <span>View project on <a href="https://github.com/fotinh0/survey-form">GitHub</a></span>
+            </footer>
+        </div>
+    </body>
+</html>
