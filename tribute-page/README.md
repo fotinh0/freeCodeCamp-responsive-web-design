@@ -6,6 +6,7 @@ This is a solution to the [Survey Form Project](https://www.freecodecamp.org/lea
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -27,6 +28,12 @@ Fullfill the below user stories:
 - User Story #7: I should see an a element with a corresponding id="tribute-link", which links to an outside site that contains additional information about the subject of the tribute page. HINT: You must give your element an attribute of target and set it to _blank in order for your link to open in a new tab (i.e. target="_blank").
 - User Story #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.
 - User Story #9: The img element should be centered within its parent element.
+
+### Screenshots
+
+![tribute-screenshot-1](https://user-images.githubusercontent.com/67170897/131261767-25a33f43-6da5-480a-b3ab-2fc5c15fe158.JPG)
+![tribute-screenshot-2](https://user-images.githubusercontent.com/67170897/131261768-fe8eee4e-31fd-4ea8-aac2-668b3e128dd1.JPG)
+![tribute-screenshot-3](https://user-images.githubusercontent.com/67170897/131261772-6a1673aa-3467-4007-bd2f-b1358e7ca690.JPG)
 
 ### Links
 

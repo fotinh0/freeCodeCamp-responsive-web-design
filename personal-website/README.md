@@ -6,6 +6,7 @@ This is a solution to the [Personal Portfolio Webpage](https://www.freecodecamp.
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -29,6 +30,10 @@ Fullfill the below user stories:
 - User Story #9: My portfolio should have at least one media query.
 - User Story #10: The height of the welcome section should be equal to the height of the viewport.
 - User Story #11: The navbar should always be at the top of the viewport.
+
+### Screenshots
+
+![JS-Documentation-screenshot](https://user-images.githubusercontent.com/67170897/131261481-7c55b858-97b3-4a5c-a655-eab9fea1bc35.JPG)
 
 ### Links
 

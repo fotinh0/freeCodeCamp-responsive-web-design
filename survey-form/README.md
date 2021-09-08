@@ -6,6 +6,7 @@ This is a solution to the [Survey Form Project](https://www.freecodecamp.org/lea
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshots](#Screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -35,6 +36,10 @@ Fullfill the below user stories:
 - User Story #15: Inside the form element, I am presented with a textarea at the end for additional comments.
 - User Story #16: Inside the form element, I am presented with a button with id="submit" to submit all my inputs.
 
+### Screenshots
+
+![survey-screenshot-1](https://user-images.githubusercontent.com/67170897/131261627-2741c479-3e63-4422-b079-85b11fdf3f4c.JPG)
+![survey-screenshot-2](https://user-images.githubusercontent.com/67170897/131261630-a8ebd04b-df8c-4e12-b5b3-8d249c4951fd.JPG)
 ### Links
 
 - Solution URL: [https://github.com/fotinh0/freeCodeCamp-responsive-web-design/tree/main/survey-form](https://github.com/fotinh0/freeCodeCamp-responsive-web-design/tree/main/survey-form)

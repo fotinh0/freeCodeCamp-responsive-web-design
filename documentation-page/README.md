@@ -6,6 +6,7 @@ This is a solution to the [Technical Documentation Page Project](https://www.fre
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -34,6 +35,9 @@ Fullfill the below user stories:
 - User Story #14: On regular sized devices (laptops, desktops), the element with id="navbar" should be shown on the left side of the screen and should always be visible to the user.
 - User Story #15: My Technical Documentation page should use at least one media query.
 
+### Screenshots
+
+![JS-Documentation-screenshot](https://user-images.githubusercontent.com/67170897/131261481-7c55b858-97b3-4a5c-a655-eab9fea1bc35.JPG)
 ### Links
 
 - Solution URL: [https://github.com/fotinh0/freeCodeCamp-responsive-web-design/tree/main/documentation-page](https://github.com/fotinh0/freeCodeCamp-responsive-web-design/tree/main/documentation-page)
