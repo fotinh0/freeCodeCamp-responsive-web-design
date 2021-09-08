@@ -32,8 +32,8 @@ Fullfill the below user stories:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: [https://fotinh0.github.io/personal-website/](https://fotinh0.github.io/personal-website/)
+- Solution URL: [https://github.com/fotinh0/freeCodeCamp-responsive-web-design/tree/main/personal-website](https://github.com/fotinh0/freeCodeCamp-responsive-web-design/tree/main/personal-website)
+- Live Site URL: [https://personal-website-fc.netlify.app/](https://personal-website-fc.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/7fdc68c7-3b7d-4c20-9ecb-b921f836d98b/deploy-status)](https://app.netlify.com/sites/personal-website-fc/deploys)
 
 ## My Process
 ### Built with

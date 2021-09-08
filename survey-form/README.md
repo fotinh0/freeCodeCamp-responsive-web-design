@@ -37,8 +37,8 @@ Fullfill the below user stories:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: [https://fotinh0.github.io/survey-form/](https://fotinh0.github.io/survey-form/)
+- Solution URL: [https://github.com/fotinh0/freeCodeCamp-responsive-web-design/tree/main/survey-form](https://github.com/fotinh0/freeCodeCamp-responsive-web-design/tree/main/survey-form)
+- Live Site URL: [https://survey-form-fc.netlify.app/](https://survey-form-fc.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/4a34cc23-afcb-4587-9c3e-f34393118004/deploy-status)](https://app.netlify.com/sites/survey-form-fc/deploys)
 
 ## My Process
 ### Built with

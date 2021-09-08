@@ -30,8 +30,8 @@ Fullfill the below user stories:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: [https://fotinh0.github.io/tribute-page/](https://fotinh0.github.io/tribute-page/)
+- Solution URL: [https://github.com/fotinh0/freeCodeCamp-responsive-web-design/tree/main/tribute-page](https://github.com/fotinh0/freeCodeCamp-responsive-web-design/tree/main/tribute-page)
+- Live Site URL: [https://tribute-page-fc.netlify.app/](https://tribute-page-fc.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/84c29b15-3f03-4430-b283-743b52da4c8f/deploy-status)](https://app.netlify.com/sites/eloquent-leavitt-2cef42/deploys)
 
 ## My Process
 ### Built with

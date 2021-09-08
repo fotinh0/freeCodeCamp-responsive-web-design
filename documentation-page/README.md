@@ -36,8 +36,8 @@ Fullfill the below user stories:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: [https://fotinh0.github.io/js-documentation-page/](https://fotinh0.github.io/js-documentation-page/)
+- Solution URL: [https://github.com/fotinh0/freeCodeCamp-responsive-web-design/tree/main/documentation-page](https://github.com/fotinh0/freeCodeCamp-responsive-web-design/tree/main/documentation-page)
+- Live Site URL: [https://js-documentation-page-fc.netlify.app/](https://js-documentation-page-fc.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/1eccc1c1-e048-4047-8026-f44ca04f2ad7/deploy-status)](https://app.netlify.com/sites/js-documentation-page-fc/deploys)
 
 ## My Process
 ### Built with
