@@ -13,4 +13,4 @@ These are the five projects required to receive a Responsive Web Design certific
 - ### Project 5: [Personal Website](https://github.com/fotinh0/freeCodeCamp-responsive-web-design/tree/main/personal-website) [![Netlify Status](https://api.netlify.com/api/v1/badges/7fdc68c7-3b7d-4c20-9ecb-b921f836d98b/deploy-status)](https://app.netlify.com/sites/personal-website-fc/deploys)
 
 
-[Certification](https://www.freecodecamp.org/certification/fotinh0/responsive-web-design) issued on April 12, 2021. 
+### [Certification](https://www.freecodecamp.org/certification/fotinh0/responsive-web-design) issued on April 12, 2021. 
